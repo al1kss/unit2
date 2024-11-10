@@ -1,7 +1,5 @@
 # Quiz 01
 
-## Paper Solution
-
 ## Code
 ```.py
 
