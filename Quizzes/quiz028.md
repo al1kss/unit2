@@ -73,8 +73,6 @@ plt.show()
 ## Proof of work
 <img width="894" alt="Screenshot 2024-12-04 at 6 43 59" src="https://github.com/user-attachments/assets/17b2bc8b-1401-4dbc-913a-1251bd97829a">
 
-## Part B
-
 ### For my info
 Where is it on PC
 >Documents/Coding/CS Lessons/Quizzes/Unit 2/quiz028
