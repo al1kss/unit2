@@ -24,7 +24,6 @@ plt.show()
 ## Proof of work
 <img width="574" alt="Screenshot 2024-12-04 at 6 49 33" src="https://github.com/user-attachments/assets/95134570-f475-45f5-bfb4-8d46cbae9918">
 
-## Part B
 
 ### For my info
 Where is it on PC
