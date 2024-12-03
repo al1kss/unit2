@@ -56,7 +56,6 @@ plt.show()
 ## Proof of work
 <img width="876" alt="Screenshot 2024-12-04 at 6 45 30" src="https://github.com/user-attachments/assets/217a141b-b024-4fe1-9381-ff4ddb0f6202">
 
-## Part B
 
 ### For my info
 Where is it on PC
